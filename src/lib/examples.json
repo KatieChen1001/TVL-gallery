@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Simple Bar Chart",
+        "src": "./assets/tactile/simpleBarChart.svg",
+        "description": "lorem ipsum dolor sit amet",
+        "alt": "xxx",
+        "category": "Bar Charts"
+    },
+    {
+        "title": "Responsive Bar Chart",
+        "src": "./assets/tactile/responsiveBarChart.svg",
+        "description": "lorem ipsum dolor sit amet",
+        "alt": "xxx",
+        "category": "Bar Charts"
+    },
+    {
+        "title": "Aggregated Bar Chart",
+        "src": "./assets/tactile/aggregatedBarChart.svg",
+        "description": "lorem ipsum dolor sit amet",
+        "alt": "xxx",
+        "category": "Bar Charts"
+    },
+    {
+        "title": "Grouped Bar Chart",
+        "src": "./assets/tactile/groupedBarChart.png",
+        "description": "lorem ipsum dolor sit amet",
+        "alt": "xxx",
+        "category": "Bar Charts"
+    },
+    {
+        "title": "Grouped Bar Chart (Multiple Measure with Repeat)",
+        "src": "./assets/tactile/groupedBarChartRepeat.png",
+        "description": "lorem ipsum dolor sit amet",
+        "alt": "xxx",
+        "category": "Bar Charts"
+    },
+    {
+        "title": "Stacked Bar Chart",
+        "src": "./assets/tactile/stackedBar.png",
+        "description": "lorem ipsum dolor sit amet",
+        "alt": "xxx",
+        "category": "Bar Charts"
+    },
+    {
+        "title": "Horizontal Stacked Bar",
+        "src": "./assets/tactile/horizontalStackedBar.png",
+        "description": "lorem ipsum dolor sit amet",
+        "alt": "xxx",
+        "category": "Bar Charts"
+    },
+    {
+        "title": "Normalized Stacked Bar",
+        "src": "./assets/tactile/normalizedStackedBar.png",
+        "description": "lorem ipsum dolor sit amet",
+        "alt": "xxx",
+        "category": "Bar Charts"
+    },
+    {
+        "title": "Normalized Stacked Bar Labels",
+        "src": "./assets/tactile/normalizedStackedBarLabels.png",
+        "description": "lorem ipsum dolor sit amet",
+        "alt": "xxx",
+        "category": "Bar Charts"
+    },
+    {
+        "title": "Gantt Chart",
+        "src": "./assets/tactile/gantt.png",
+        "description": "lorem ipsum dolor sit amet",
+        "alt": "xxx",
+        "category": "Bar Charts"
+    }
+]
